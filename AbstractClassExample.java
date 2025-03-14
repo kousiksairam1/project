@@ -1,6 +1,6 @@
 package JavaBasics;
 abstract class AbstractTest{
-	int i=10;
+	int i=10123223322323;
 	abstract void Method1();
 	void testMethod() {
 		System.out.println("Non Abstract Method");
